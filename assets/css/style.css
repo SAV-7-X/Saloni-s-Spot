@@ -347,8 +347,9 @@ header .navbar ul li a:hover {
   .socials {
     margin-top: 12rem;
   }
+  .home
   .home .image img {
-    margin-top: -12rem;
+    margin-top: -10rem;
   }
   .home .content p {
     font-size: 2.2rem;
